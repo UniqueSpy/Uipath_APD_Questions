@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FinalAmount&Sequence_1",
+        "SimpleInterest&Sequence_1",
+        "TimePeriod&Sequence_1",
+        "PrincipalAmount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "OutCalculation"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Calculation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Calculate&Sequence_1",
+        "RateOfInterest&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "OutTimePeriod",
+        "OutPrincipalAmount"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
