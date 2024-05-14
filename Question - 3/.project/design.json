@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "#arrays"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
