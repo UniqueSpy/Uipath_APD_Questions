@@ -1,0 +1,12 @@
+{
+  "Tags": [
+    {
+      "Key": "#args"
+    },
+    {
+      "Key": "#si_calc"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
