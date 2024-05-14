@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "#Age"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
